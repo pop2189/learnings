@@ -1,9 +1,9 @@
-package com.harsh.arrays;
+package test.com.learnings.arrays;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.harsh.arrays.RotateArray;
+import com.learnings.arrays.RotateArray;
 
 public class TestRotateArray {
 

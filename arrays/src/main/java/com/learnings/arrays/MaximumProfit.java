@@ -1,4 +1,4 @@
-package com.harsh.arrays;
+package com.learnings.arrays;
 
 public class MaximumProfit {
 

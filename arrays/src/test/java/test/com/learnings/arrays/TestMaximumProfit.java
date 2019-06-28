@@ -1,9 +1,9 @@
-package com.harsh.arrays;
+package test.com.learnings.arrays;
 
 import org.junit.Assert;
 import org.junit.Test;
 
-import com.harsh.arrays.MaximumProfit;
+import com.learnings.arrays.MaximumProfit;
 
 
 public class TestMaximumProfit {
